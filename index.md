@@ -6,3 +6,9 @@
 
 # YaktoCat Image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+#Javascript
+``` javascript
+var myVar = "Hello, world!";
+console.log(myVar);
+```
