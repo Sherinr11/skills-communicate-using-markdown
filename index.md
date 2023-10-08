@@ -7,8 +7,12 @@
 # YaktoCat Image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-#Javascript
+# Javascript
 ``` javascript
 var myVar = "Hello, world!";
 console.log(myVar);
 ```
+# Task List
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
